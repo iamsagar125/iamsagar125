@@ -5,8 +5,7 @@ I'm a Product Manager who loves building data-informed products and tools. I wor
 ## What I’m working on
 
 - **Syag** – a privacy-first, on-device AI note-taker for macOS (meeting notes, audio transcription, and more).
-- Omnichannel customer support + reporting at Copart – tickets, chat, AI dispositions, and MSM cockpit experiences.
-- Experiments and dashboards that connect product changes to real business outcomes.
+
 
 ## What I’m interested in
 
