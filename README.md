@@ -4,7 +4,7 @@ I'm a Product Manager who loves building data-informed products and tools. I wor
 
 ## What I’m working on
 
-- **Syag** – a privacy-first, on-device AI note-taker for macOS (meeting notes, audio transcription, and more).
+- **oschief.ai** – a privacy-first, on-device AI note-taker for macOS (meeting notes, audio transcription, and more).
 
 
 ## What I’m interested in
